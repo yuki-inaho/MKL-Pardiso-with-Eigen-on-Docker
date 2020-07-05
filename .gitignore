@@ -1,0 +1,4 @@
+src/CMakeFiles
+.vscode/settings.json
+src/CMakeLists.txt
+src/cmake_install.cmake
